@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PLayer
+  - Brother
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Back
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: player
+    uniqueID: 501590339
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 607518061
+    locked: 0
+  - name: Enviroment
+    uniqueID: 2027474167
+    locked: 0
+  - name: ground
+    uniqueID: 2423536529
+    locked: 0
+  - name: Kill
+    uniqueID: 4132675411
+    locked: 0
+  - name: PLayer
+    uniqueID: 4208533397
+    locked: 0
+  - name: Canvas
+    uniqueID: 2742937419
+    locked: 0
